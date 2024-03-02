@@ -9,13 +9,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/EmanuelCostin/goit-js-hw-08.git"
+    "url": "git+https://github.com/goitacademy/goit-js-hw-08.git"
   },
   "keywords": [],
   "author": "Alexander Repeta <alexander.repeta@gmail.com>",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/EmanuelCostin/goit-js-hw-08/issues"
+    "url": "https://github.com/goitacademy/goit-js-hw-08/issues"
   },
   "dependencies": {
     "@vimeo/player": "^2.21.0",
@@ -25,8 +25,8 @@
     "throttle": "^1.0.3"
   },
   "devDependencies": {
-    "@parcel/transformer-sass": "^2.6.0",
-    "parcel": "^2.6.0",
+    "@parcel/transformer-sass": "^2.8.0",
+    "parcel": "^2.8.0",
     "parcel-reporter-clean-dist": "^1.0.4",
     "posthtml-include": "^1.7.4"
   },
